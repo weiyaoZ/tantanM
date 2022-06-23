@@ -41,6 +41,12 @@ npm run lint
 ### 商品详情：
 ![输入图片说明](preview/%E5%95%86%E5%93%81%E8%AF%A6%E6%83%85.png)
 
+### 注册页面：
+![输入图片说明](preview/%E6%B3%A8%E5%86%8C%E9%A1%B5%E9%9D%A2.png)
+
+### 登陆页面：
+![输入图片说明](preview/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png)
+
 ### 购物车：
 ![输入图片说明](preview/%E8%B4%AD%E7%89%A9%E8%BD%A6.png)
 
