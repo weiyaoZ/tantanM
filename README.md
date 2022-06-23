@@ -4,17 +4,17 @@
 
 # app
 
-## Project setup
+## 项目依赖下载
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 项目运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 项目打包
 ```
 npm run build
 ```
@@ -25,13 +25,13 @@ npm run lint
 ```
 
 #### 介绍
-该项目为电商前台项目，包含了对商品的各种操作，搜索商品、查看商品详情，添加购物车、下订单，以及登录注册等操作
+#### 该项目为电商前台项目，包含了对商品的各种操作，搜索商品、查看商品详情，添加购物车、下订单，以及登录注册等操作
 
 #### 项目预览
 #### 首页：
 ![输入图片说明](preview/%E9%A6%96%E9%A1%B5.png)
 
-三级联动：
+#### 三级联动：
 ![输入图片说明](preview/%E4%B8%89%E7%BA%A7%E8%81%94%E5%8A%A8.png)
 
 #### 搜索：
@@ -62,7 +62,6 @@ npm run lint
 ```
 
 开发账号：13700000000
-```
 开发密码：111111
 ```
 
